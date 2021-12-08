@@ -7,4 +7,4 @@ THis line added in feature branch
 This line added in feature2 branch
 This line added in feature3 branch
 This is 6th line added
-This is 5th line
+This is 7th line
